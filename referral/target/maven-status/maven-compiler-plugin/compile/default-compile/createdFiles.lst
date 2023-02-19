@@ -1,0 +1,10 @@
+com/bajaj/referral/controller/FeignController.class
+com/bajaj/referral/service/ReferralServiceImpl.class
+com/bajaj/referral/feign/ReferralUserFeign.class
+com/bajaj/referral/bean/UserBean.class
+com/bajaj/referral/service/ReferralService.class
+com/bajaj/referral/entity/ReferralEntity.class
+com/bajaj/referral/controller/ReferralController.class
+com/bajaj/referral/dao/ReferralDao.class
+com/bajaj/referral/ReferralApplication.class
+com/bajaj/referral/bean/ReferralBean.class
